@@ -114,10 +114,12 @@ class Human {
 ## 30. Analyzing a Standard React Project
 
 ## 31. Introducing JSX
+![](img/2021-11-30-17-44-30.png)
 
 ## 32. How React Works
-
+![](img/2021-11-30-17-45-05.png)
 ## 33. Building a First Custom Component
+![](img/2021-11-30-17-47-20.png)
 
 ## 34. Writing More Complex JSX Code
 
