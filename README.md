@@ -120,7 +120,33 @@ class Human {
 ![](img/2021-11-30-17-45-05.png)
 ## 33. Building a First Custom Component
 ![](img/2021-11-30-17-47-20.png)
+- Add ExpenseItem.js to components folder
 
+```js
+// create custom component
+function ExpenseItem() {
+  return <h2> Expense Item!</h2>
+}
+
+// be sure to export
+export default ExpenseItem;
+```
+
+- modify App.js to import ExpenseItem
+- This autocompletes
+
+```js
+import ExpenseItem from "./components/ExpenseItem";
+function App() {
+  return (
+    <div>
+      <h2>Let's get started!</h2>
+      <ExpenseItem></ExpenseItem>
+    </div>
+  );
+}
+export default App;
+```
 ## 34. Writing More Complex JSX Code
 
 ## 35. Adding Basic CSS Styling
