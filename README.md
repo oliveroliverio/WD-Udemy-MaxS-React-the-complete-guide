@@ -169,6 +169,12 @@ export default ExpenseItem;
 
 
 ## 35. Adding Basic CSS Styling
+- add css style sheet in components folder (see file, too big)
+- modify the ExpenseItem component to reference the sheet
+
+```js
+
+```
 
 ## 36. Outputting Dynamic Data & Working with Expressions in JSX
 
