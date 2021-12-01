@@ -10,6 +10,5 @@ function ExpenseItem() {
     </div>
   );
 }
-
 // be sure to export
 export default ExpenseItem;
