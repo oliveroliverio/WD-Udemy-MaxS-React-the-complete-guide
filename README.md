@@ -148,6 +148,12 @@ function App() {
 export default App;
 ```
 ## 34. Writing More Complex JSX Code
+- have ExpenseItem return more complex html
+
+```js
+
+```
+
 
 ## 35. Adding Basic CSS Styling
 
