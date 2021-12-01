@@ -22,6 +22,9 @@
 
 ## 10. Setting Up The Course Dev Environment (Code Editor)
 
+---
+# Section 2 - Javascript Refresher
+
 ## 11. Module Introduction
 
 ## 12. Understanding "let" and "const"
@@ -45,26 +48,60 @@
 ![](img/2021-11-30-15-26-32.png)
 
 ## 15. Understanding Classes
+![](img/2021-11-30-15-27-58.png)
+![](img/2021-11-30-15-29-00.png)
+![](img/2021-11-30-15-29-30.png)
 
+```js
+class Human {
+  constructor(){
+    this.gender = "Male"
+  }
+}
+// finish this later
+```
 ## 16. Classes, Properties and Methods
+![](img/2021-11-30-15-30-47.png)
 
 ## 17. The Spread & Rest Operator
+![](img/2021-11-30-16-03-15.png)
+![](img/2021-11-30-16-03-54.png)
+![](img/2021-11-30-16-04-17.png)
+![](img/2021-11-30-16-04-58.png)
+
 
 ## 18. Destructuring
+![](img/2021-11-30-16-05-38.png)
+![](img/2021-11-30-16-07-07.png)
 
 ## 19. Reference and Primitive Types Refresher
-
+![](img/2021-11-30-16-08-18.png)
 ## 20. Refreshing Array Functions
-
+![](img/2021-11-30-16-08-51.png)
 ## 21. Wrap Up
 
 ## 22. Next-Gen JavaScript - Summary
 
 ## 23. JS Array Functions
 
+### View the `Section02_Javascript refresher pdf`
+
+---
+
+# Section 3 - React basics and working with components
+
 ## 24. Module Introduction
+![](img/2021-11-30-17-38-14.png)
+![](img/2021-11-30-17-38-26.png)
+
 
 ## 25. What Are Components? And Why Is React All About Them?
+
+![](img/2021-11-30-17-38-49.png)
+![](img/2021-11-30-17-39-00.png)
+![](img/2021-11-30-17-39-18.png)
+![](img/2021-11-30-17-39-49.png)
+![](img/2021-11-30-17-40-25.png)
 
 ## 26. React Code Is Written In A "Declarative Way"!
 
