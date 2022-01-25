@@ -1,6 +1,6 @@
 import React from "react";
 
-import NewExpense_Form from "./NewExpense_Form";
+import NewExpenseForm from "./NewExpenseForm";
 import "./NewExpense.css";
 
 const NewExpense = (props) => {
@@ -14,7 +14,7 @@ const NewExpense = (props) => {
 
   return (
     <div className="new-expense">
-      <NewExpense_Form onSaveExpenseData={saveExpenseDataHandler} />
+      <NewExpenseForm onSaveExpenseData={saveExpenseDataHandler} />
     </div>
   );
 };
