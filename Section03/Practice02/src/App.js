@@ -1,8 +1,8 @@
 // App>Expenses>ExpenseItem>ExpenseDate
 // App>NewExpense>
 import React from "react";
-import NewExpense from "./components/NewExpense/NewExpense";
-import Expenses from "./components/Expense/Expenses";
+import NewExpense from "./NewExpense/NewExpense";
+import Expenses from "./Expense/Expenses";
 
 const App = () => {
   const expenses = [

@@ -136,7 +136,7 @@ export default ExpenseItem;
 - This autocompletes
 
 ```js
-import ExpenseItem from "./components/ExpenseItem";
+import ExpenseItem from "./ExpenseItem";
 function App() {
   return (
     <div>

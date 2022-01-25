@@ -1,4 +1,4 @@
-import ExpenseItem from "./components/ExpenseItem";
+import ExpenseItem from "./ExpenseItem";
 
 function App() {
   // import data at the topmost component, then pass down to children components
@@ -24,7 +24,7 @@ function App() {
       date: new Date(2021, 5, 12),
     },
   ];
- return (
+  return (
     <div>
       <h2>Let's get started!</h2>
       <ExpenseItem
@@ -52,4 +52,3 @@ function App() {
 }
 
 export default App;
-
